@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: [-xc++, -std=c++17, -Wall, -I/usr/include/c++/12, -I/usr/include/x86_64-linux-gnu/c++/12]
+  Remove: -w*
+  Compiler: clang++
+  
